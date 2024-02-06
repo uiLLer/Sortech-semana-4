@@ -1,7 +1,7 @@
 public class AlterarListagemClienteIdade {
     public static void main(String[] args) {
         String fu = "Fulano";
-        String si = "Sicrano";
+        String si = "Beltrano";
         int nascFu = 1980;
         int nascSi = 2000;
         int anoAtual = 2024;
